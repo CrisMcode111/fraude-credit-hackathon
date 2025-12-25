@@ -1,3 +1,8 @@
+> **Hackathon context**  
+> This project was developed during a time-limited hackathon as part of an AI bootcamp.  
+> The focus was on rapid exploration, analysis, and collaborative problem-solving rather than building a production-ready system.
+
+
 # fraude-credit-hackathon
 Hackathon 23-10-2025 – Credit Card Fraud Detection and Prevention
 1. Project Overview
