@@ -2,9 +2,7 @@
 > This project was developed during a time-limited hackathon as part of an AI bootcamp.  
 > The focus was on rapid exploration, analysis, and collaborative problem-solving rather than building a production-ready system.
 
-
-# fraude-credit-hackathon
-Hackathon 23-10-2025 – Credit Card Fraud Detection and Prevention
+# Hackathon 23-10-2025 – Credit Card Fraud Detection and Prevention
 1. Project Overview
 
 This project was developed during the Hackathon 23-10-2025 by our team of three members, with the objective of detecting and preventing fraudulent credit card transactions.
@@ -40,7 +38,9 @@ These top predictors can be prioritized in monitoring systems or combined into a
 
 This focus helps improve prevention efforts by targeting the most informative parts of the data.
 
-5. Predictive Modeling (Next Step)
+5. Predictive Modeling (Next Step – Hackathon Scope)
+
+Due to time constraints inherent to the hackathon format, this notebook focused primarily on exploratory analysis and visualization.
 
 While this notebook focused mainly on analysis and visualization, predictive models can be applied to classify fraud vs. genuine transactions.
 
