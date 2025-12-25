@@ -98,3 +98,13 @@ Cristina Moussoungedi: Project setup (repository & main branch), Fraud Preventio
 The dataset used is creditcard.csv from Kaggle
 .
 It contains anonymized features (V1–V28), transaction Amount and Time, and the Class label (0 = genuine, 1 = fraud).
+
+## Project Nature
+
+This repository reflects a **hackathon learning experience**:
+- decisions were made under time pressure,
+- the code prioritizes clarity and exploration,
+- and the goal was insight generation rather than optimization.
+
+It is not intended as a production-ready fraud detection system.
+
